@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="controller/|model/|view/" kind="src" path="core"/>
+	<classpathentry kind="src" path="core/controller"/>
+	<classpathentry kind="src" path="core/model"/>
+	<classpathentry kind="src" path="core/view"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
